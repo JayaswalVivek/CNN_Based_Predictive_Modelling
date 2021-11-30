@@ -4,7 +4,7 @@ This code was used to generate the output for the CGIAR Crop Yield Prediction Ch
 
 First, for a given crop field, the raw satellite image data set was converted into a C x N x P matrix of histograms (where C denotes the number of channels, N denotes the number of histogram bins, and P denotes the number of time points) in a manner similar to that described by You et al. (2017). Next, a CNN was developed to estimate the crop yield using the 3D histograms as input.
 
-Validation Data RMSE (as per Zindi dashboard): 1.855
+**RMSE (as per Zindi dashboard): 1.855**
 
 References
 1. Jiaxuan You, Xiaocheng Li, Melvin Low, David Lobell, and Stefano Ermon. 2017. Deep Gaussian process for crop yield prediction based on remote sensing data. In Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI'17). AAAI Press, 4559–4565.
