@@ -1,4 +1,4 @@
-## CNN for Satellite Image Analysis
+## CNN for Time Series Analysis of Satellite Image Data
 
 This code was used to generate the output for the CGIAR Crop Yield Prediction Challenge. The raw data set can be downloaded from the URL https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge.
 
