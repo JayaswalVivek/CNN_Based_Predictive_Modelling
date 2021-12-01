@@ -6,5 +6,5 @@ First, for a given crop field, the raw satellite image data set was converted in
 
 **RMSE (as per Zindi dashboard): 1.855**
 
-References
+*References*
 1. Jiaxuan You, Xiaocheng Li, Melvin Low, David Lobell, and Stefano Ermon. 2017. Deep Gaussian process for crop yield prediction based on remote sensing data. In Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI'17). AAAI Press, 4559–4565.
